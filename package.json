@@ -13,7 +13,7 @@
     "chai-http": "^4.3.0",
     "chakram": "^1.5.0",
     "expect": "^24.8.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "request": "^2.88.0",
     "require": "^2.4.20",
     "should": "^13.2.3"
